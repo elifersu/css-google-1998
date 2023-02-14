@@ -1,0 +1,37 @@
+.bg-1 {
+    background-color:#EEEEEE;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.box-1 {
+    background-color: #7EE5DA;
+    width: 450px;
+    height: 107px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 3px;
+}
+.box-2 {
+    background-color: #70CCC2;
+    float: left;
+    width: 280px;
+    height: 87px;
+    padding: 10px;
+    margin-top: 3px;
+    margin-left: 5px;
+}
+.box-3 {
+    background-color: #62B3AA ;
+    float: left;
+    width: 565px;
+    height: 107px;
+    margin-top: 3px;
+    margin-left: 5px;
+    
+    
+}
+
+.clear {
+    clear: both;
+    margin-top: 10px;
+}
